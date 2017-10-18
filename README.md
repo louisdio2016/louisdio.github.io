@@ -1,4 +1,4 @@
-!!! DeerCV.com 的域名到期了，有需要查看自己简历内容的同学，请在本地host中将 deercv.com 和  yourdomain.deercv.com 还有静态文件域名 static.deercv.com 解析到 43.241.215.206 。
+﻿!!! DeerCV.com 的域名到期了，有需要查看自己简历内容的同学，请在本地host中将 deercv.com 和  yourdomain.deercv.com 还有静态文件域名 static.deercv.com 解析到 43.241.215.206 。
 DeerResume
 ==========
 
@@ -47,3 +47,5 @@ DeerResume
 - 右键该简历网页选择打印
 - 目标打印机改成另存为PDF
 - 保存
+
+修改了
